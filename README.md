@@ -1,101 +1,127 @@
-<h1 align="center">Hi there, I'm Chandan Kumar Shani! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
+
+# Hi! I am Chandan Kumar Shani 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Master+in+AI+Student;Software+Developer;Automation+%7C+Web+Dev+%7C+ML+Projects&center=true&width=500&height=45">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00C2FF&center=true&vCenter=true&width=800&lines=Software+Developer;Data+Analyst;Automation+Developer;MSc+Artificial+Intelligence+Student;Machine+Learning+%7C+AI+%7C+Data+Analysis" alt="Typing SVG" />
+  </a>
 </p>
 
----
+</div>
 
-### 👨‍💻 About Me
-- Passionate **MSc Artificial Intelligence** student at **BTU Cottbus, Germany**
-- 2.5+ years of experience in **Software Development**, **Automation**, and **Web Technologies**
-- Enthusiastic about building scalable solutions using AI and ML
-- Experienced in working with cross-functional agile teams on real-world products
 
----
+🎯 **Master's Student in Artificial Intelligence** at Brandenburg University of Technology, Germany  
+💻 **Ex-Software Engineer @ Cognizant** | 2.5+ years in Software Development, Data Analysis & Automation  
+🚀 Passionate about **AI, Machine Learning, Software Development, and Automation**
 
-### 🛠️ Tech Stack
-
-#### Languages:
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-#### Frameworks & Libraries:
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-#### Tools & DBs:
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat&logo=vercel)](https://chandankumarshani.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/chandanshani/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/chandanshani143)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:chandankumarshani98@gmail.com)
 
 ---
 
-### 💼 Work Experience
+## 🧠 About Me
 
-#### Automation Developer | Cognizant *(Mar 2022 – Oct 2024)*
-- Developed Selenium-based automation enhancing web efficiency, saving 200+ hours/year
-- Improved SQL validation and shell scripting processes
-- Reduced operational costs by 40% via automation
-
-#### Junior Software Developer | Cognizant *(Oct 2021 – Mar 2023)*
-- Built React UIs with Redux and Spring Boot APIs
-- Managed backend logic and collaborated in Agile/Scrum teams
-
-#### Web Development Intern | Cognizant *(Mar 2021 – Oct 2021)*
-- Developed full-stack Java+React microservices
-- Learned OOP, design principles, and REST APIs
+- 🎓 Currently pursuing **M.Sc. in Artificial Intelligence**  
+- 🛠 Skilled in **Python, FastAPI, React, Next.js, SQL, Data Analysis, Machine Learning, LLMs**  
+- 📊 Experienced in **data pipelines, workflow automation, and AI-powered solutions**  
+- 🤝 Open to **collaborations** on AI, Data Handling, automation, and full-stack projects
 
 ---
 
-### 📚 Education
+## 🛠 Tech Stack
 
-**MSc in Artificial Intelligence**  
-Brandenburgische Technische Universität Cottbus-Senftenberg, Germany  
-*2024 - Present*
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**B.Tech in Computer Science and Engineering**  
-DIT University, Dehradun, India  
-*2017 - 2021*  
-**Thesis:** Human Resource Analytical System using Machine Learning
+**Data & Analytics**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+**Web & API Development**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Shadcn](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge)
+
+**AI & ML**  
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**Tools & Others**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### 🚀 Projects
+## 🚀 Featured Projects
 
-- **HR Analytics System**: Automated employee appraisal using Bayesian ML & Decision Trees  
-- **IPL Match Predictor**: Built ML models with K-Fold CV to predict match winners  
-- **FinTrack**: AI-powered finance prediction platform
+### 🔹 [FinTrack - AI Finance Platform](https://github.com/chandanshani143/FinTrack)
+A **full-stack AI-powered finance management platform** built with **Next.js, Prisma, Supabase**.  
+- **AI-based OCR** for receipt scanning.  
+- **NLP-powered categorization** for smart expense tracking.  
+- **Recurring transactions**, **email alerts**, and **budget insights** to improve financial awareness.  
+- Designed for **multi-account management** with a clean, responsive UI.
 
----
-
-### ✨ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandanshani143&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanshani143&layout=compact&theme=tokyonight" height="170"/>
-</p>
+  **🛠 Technologies Used:**  
+Next.js, HTML, CSS, Gemini API, JavaScript, Tailwind CSS, PostgreSQL, Clerk
 
 ---
 
-### 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/chandanshani/)
-[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github&style=flat)](https://github.com/chandanshani143)
-[![Email](https://img.shields.io/badge/Gmail-Red?logo=gmail&style=flat)](mailto:chandankumarshan98@gmail.com)
+### 🔹 [Human Resource Analytical System](https://github.com/chandanshani143/HR-Analytics)
+A **machine learning-based HR appraisal system** using **Random Forest** & **Decision Tree** classifiers.  
+- **Feature engineering** with label & one-hot encoding.  
+- **Model evaluation** using confusion matrix & Gini-based feature importance.  
+- **Flask API** for real-time predictions.  
+- **Pickle** for model serialization and deployment-ready architecture.
+
+  **🛠 Technologies Used:**  
+Python, HTML, CSS, Flask, NumPy, Pandas, Scikit-learn
 
 ---
 
-### 🌍 Languages
-- **English**: Professional Proficiency  
-- **German**: Elementary Proficiency (A1 Level)
+### 🔹 [DrivsyAI - AI Car Marketplace](https://github.com/chandanshani143/DrivsyAI)
+An **AI-driven car marketplace** built with **React, Next.js, Supabase, Gemini Vision API**.  
+- Search cars by **name** or **image upload**.  
+- **Admin dashboard** for uploading vehicle data.  
+- **LLM-based vision processing** to auto-extract car specifications.  
+- Optimized for **fast listing generation** and **scalable deployment**.
+  
+**🛠 Technologies Used:**  
+Next.js, HTML, CSS, Gemini API, JavaScript, Tailwind CSS, Clerk, PostgreSQL
 
 ---
 
-*Thanks for visiting! Let's build something amazing together.*
+## 🌍 Let's Connect
+
+💼 [LinkedIn](https://www.linkedin.com/in/chandanshani/)  
+🌐 [Portfolio](https://chandankumarshani.vercel.app/)  
+📧 [Email Me](mailto:chandankumarshani98@gmail.com)
+
+---
+
+> _"Turning ideas into intelligent, scalable solutions."_ 🚀
